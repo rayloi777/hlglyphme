@@ -1,6 +1,8 @@
 # GlyphMe
 
+```
 haxelib git hlglyphme https://github.com/rayloi777/hlglyphme.git
+```
 
 Very half-assed TTF support for heaps using [stb_truetype](https://github.com/nothings/stb).
 I have never written any c/c++ code, bindings or font/text related code, so I don't really know what I'm doing.
